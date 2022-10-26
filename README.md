@@ -19,8 +19,7 @@ You need to open this in roblox studio. If you do not have it download it from h
  
 
 Download Link (RBLX FILE)
-
-https://www.mediafire.com/file/11w5lrzci7tdfdh/Toggle+Template.rbxl/file
+https://github.com/pluto-guy/Open-source-toggle/blob/main/Toggle%20Template%20(1).rbxl?raw=true
 
  
 
